@@ -1,0 +1,138 @@
+{
+    "heartData": [
+        {
+            "label": "Fibrous Pericardium",
+            "description": "- 1 - 2 milli meters thick\n- The outermost layer of the pericardium, composed of dense, fibrous connective tissue.\n    - Consists of two layers: an outer fibrous layer and an inner serous layer.\n        - Outer Fibrous Layer:\n            - Provides structural support and protection to the heart.\n            - Anchors the heart in the mediastinum, the central compartment of the chest and prevents excessive movement or displacement of the heart during physical activity.\n        - Inner Serous Layer:\n            - forms the parietal layer of the serous pericardium.\n    - Serous pericardium consists of two layers:\n        - Parietal layer (inner surface of the fibrous pericardium) and visceral layer (epicardium)\n        - Serous layers secrete a lubricating fluid, called Pericardial fluid, lubricate the heart and reduce friction as it beats"
+        },
+        {
+            "label": "Left Pulmonary veins",
+            "description": "- Originate from the left lung (lung parenchyma) and carry oxygenated blood back to the left atrium (or auricle) of the heart\n- Referred to as the left superior pulmonary vein and left inferior pulmonary vein as they collect oxygenated blood from the superior and inferior lobes of the left lung, respectively"
+        },
+        {
+            "label": "Right Pulmonary veins",
+            "description": "- Originate from the right lung (lung parenchyma) and carry oxygenated blood back to the left atrium (or left auricle) of the heart from the posterior aspect of the left atrium\n- Referred to as the right superior pulmonary vein and right inferior pulmonary vein as they collect oxygenated blood from the superior and inferior lobes of the right lung, respectively"
+        },
+        {
+            "label": "Left Pulmonary artery",
+            "description":  "- Short, thick-walled artery that arises from the pulmonary trunk\n- Carries deoxygenated blood from the right ventricle of the heart to the right lung"
+        },
+        {
+            "label": "Right Pulmonary artery",
+            "description": "- Longer, thinner-walled artery that arises from the pulmonary trunk\n- The right pulmonary artery divides into three branches:\n    - The upper lobe pulmonary artery supplies blood to the right upper lobe of the lung.\n    - The middle lobe pulmonary artery supplies blood to the right middle lobe of the lung.\n    - The lower lobe pulmonary artery supplies blood to the right lower lobe of the lung."
+
+        },
+        {
+            "label": "Pulmonary trunk",
+            "description": "- Large, thick and smooth walled artery [5 cm long and 2 cm wide] that originates from cone-shaped portion of the right ventricle - conus arteriosus (or Infundibulum),\n    - Divides into left and right pulmonary arteries\n    - Carries deoxygenated blood away from the heart and toward the lungs, to the pulmonary capillaries"
+        },
+        {
+            "label": "Ascending Aorta",
+            "description": "- First section of Aorta - starts from the left ventricle, ascends vertically and curves slightly to the left, carrying oxygenated blood from the heart to the rest of the body.\n    - Leads into the Aortic arch, then - the Brachiocephalic trunk - which leads to Left Common Carotid Artery and Left Subclavian Artery.\n    - Further leads to the right coronary artery and the left coronary artery\n    - Descending Aorta:\n        - the longest segment of the aorta and can be further divided into two parts:\n            \n            a) Thoracic Aorta: Begins at the level of the fourth thoracic vertebra, where the aortic arch ends. It descends through the thoracic (chest) cavity and supplies blood to the organs and structures within the chest, including the heart, lungs, esophagus, and other thoracic structures.\n            \n            b) Abdominal Aorta: Continues from the thoracic aorta at the level of the 12th thoracic vertebra, passes through the abdominal cavity and supplies blood to the organs and structures within the abdomen, including the digestive organs, kidneys, and pelvic organs"
+        },
+        {
+            "label": "Brachiocephalic trunk",
+            "description": "- Diameter ~ 1 cm, supplies blood to arm, head, and neck.\n    - Bifurcates into right common carotid artery and right subclavian artery"
+        },
+        {
+            "label": "Left subclavian artery",
+            "description": "- Travels upward and to the left passing behind the anterior scalene muscle, to supply blood to the left arm, neck, and head.\n    - Gives off several branches that include\n        - Vertebral artery: supplies blood to the brain.\n        - Internal thoracic artery: to the chest wall and breastbone.\n        - Thyrocervical trunk: to the thyroid gland, parathyroid glands, and neck muscles.\n        - Costocervical trunk: to the back muscles and spinal cord"
+        },
+        {
+            "label": "Left common carotid artery",
+            "description": "- Diameter ~ 4-6 mm with Thickness ~ 1-2 mm, supplies blood to the left side of the head and neck.\n    - At the level of the thyroid cartilage, the CCA bifurcates into the internal carotid artery (ICA) and the external carotid artery (ECA). The ICA supplies blood to the brain, while the ECA supplies blood to the face, scalp, and neck"
+        },
+        {
+            "label": "Inferior Vena cava",
+            "description": "- Largest vein in Human body with diameter ~ 2 inch, carries deoxygenated blood from the lower half of the body to the right atrium\n    - IVC receives blood from a number of tributaries, including the hepatic veins, the renal veins, the lumbar veins, and the iliac veins.\n    - The hepatic veins drain blood from the liver, the renal veins drain blood from the kidneys, the lumbar veins drain blood from the lower back, and the iliac veins drain blood from the legs and pelvic region"
+        },
+        {
+            "label": "Superior Vena cava",
+            "description": "- Large, thick-walled vein that carries deoxygenated blood from the upper half of the body to the right atrium of the heart\n    - Formed by the convergence of the right and left brachiocephalic veins, also known as the innominate veins\n    - SVC begins at the level of the first rib, where the right and left brachiocephalic veins join together. From there, it descends vertically in the chest, passing through the mediastinum, which is the central compartment of the thoracic cavity. The SVC runs to the right of the midline, close to the ascending aorta"
+        },
+        {
+            "label": "Azygous vein",
+            "description": "- Largest vein in the thorax, lying right side of the vertebral column (spine), drains deoxygenated blood towards superior vena cava\n    - Important for drainage of the posterior chest and abdomen.\n    - Provides an alternative path for blood to the right atrium when either of the venae cavae is blocked.\n    - **Origin:** The azygos vein is formed by the union of the ascending lumbar veins with the right subcostal veins at the level of the 12th thoracic vertebra.\n    - **Tributaries:** The azygos vein receives the following tributaries:\n        - Right ascending lumbar veins\n        - Right subcostal veins\n        - Posterior intercostal veins (T8-T12)\n        - Bronchial veins\n        - Hemiazygos vein\n        - Accessory hemiazygos vein"
+        },
+        {
+            "label": "Vertebral vein",
+            "description": "Drain blood from the spinal cord, vertebrae, and surrounding tissues, rich in metabolic waste products and carbon dioxide"
+        },
+        {
+            "label": "Great Cardiac vein",
+            "description": "- Located on the anterior surface of the heart within the coronary sulcus, also known as the atrioventricular groove and begins near the apex of the heart, alongside the left anterior descending artery - branch of the left coronary artery.\n    - Receives blood from several smaller veins that drain blood from the left ventricle and parts of the left atrium.\n    - Drains deoxygenated blood from the myocardium, along with blood from other cardiac veins, eventually flows into the coronary sinus, a larger vein located in the posterior part of the coronary sulcus. The coronary sinus then empties into the right atrium, where the deoxygenated blood is mixed with venous blood returning from the body before being sent to the lungs for oxygenation"
+        },
+        {
+            "label": "Inferior Inter ventricular Descending arteries",
+            "description": "- Branch of the right coronary artery (RCA) that supplies oxygenated blood to the posterior third of the inter ventricular septum and the inferior surface of the left ventricle\n    - Travels along the posterior inter ventricular sulcus that is located between the two ventricles on the backside of the heart"
+        },
+        {
+            "label": "Middle Cardiac vein",
+            "description": "- Posterior vein of the left ventricle, drains deoxygenated blood from the posterior regions of the heart, back to the right atrium of the heart through the coronary sinus\n    - Begins near the apex of the heart and follows the same path as the posterior inter ventricular artery"
+        },
+        {
+            "label": "Inter ventricular septum",
+            "description": "- Wall of cardiac muscle that separates the left and right ventricles of the heart\n    - Made up of two parts: muscular portion and membranous portion.\n        - Muscular portion is made of cardiac muscle fibres arranged in a spiral pattern, which helps to create a strong and durable wall. The muscular portion of the IVS is responsible for most of the separation between the left and right ventricles.\n        - Membranous portion is made of fibrous tissue located at the top, near the aortic valve. The membranous portion of the IVS is responsible for a small portion of the separation between the left and right ventricles"
+        },
+        {
+            "label": "Anterior Inter ventricular vein",
+            "description": "- Drains a large area of the heart, including the anterior third of the inter ventricular septum and the anterior surface of the left ventricle.\n    - Being one of the largest cardiac veins, it arises at the apex of the heart and courses along the anterior inter ventricular sulcus, draining into the coronary sinus"
+        },
+        {
+            "label": "Coronary sinus",
+            "description": "- The largest vein of the heart that is 3-5 cm long and 1 cm in diameter, opens into the right atrium at the right atrioventricular groove, just inferior to the opening of the inferior vena cava.\n    - Drains deoxygenated blood from the heart into the right atrium\n    - Receives blood from a number of cardiac veins, including the great cardiac vein, the middle cardiac vein, and the posterior vein of the left ventricle.\n    - The coronary sinus is often guarded by a thin, semicircular endocardial fold, also known as the Thebesian valve"
+        },
+        {
+            "label": "Right Coronary artery",
+            "description": "- Arises from the right sinus of Valsalva, which is an opening in the aorta located to the right of the aortic valve and travels down the right atrioventricular groove\n    - Gives off branches that supply blood to the right atrium, the right ventricle, and the posterior third of the inter ventricular septum.\n    - Also supplies blood to the sinoatrial (SA) node, which is the natural pacemaker of the heart. The SA node generates electrical impulses that initiate the heart's contractions, and a sufficient blood supply from the RCA is crucial for the proper functioning of the SA node and the overall coordination of the heart's electrical system"
+        },
+        {
+            "label": "Right Marginal artery",
+            "description": "- Also known as the acute marginal artery, arises from the RCA near the crux cordis\n    - Supplies oxygenated blood to the lateral and inferior surfaces of the right ventricle for proper functioning of the right ventricular myocardium"
+        },
+        {
+            "label": "Left appendage",
+            "description": "- Small, finger-like pouch that projects from the left atrium An anatomical feature that extends from the main body of the left atrium and has a distinctive shape resembling a small ear\n    - A remnant of the embryonic left atrium\n    - Primary function of the left atrial appendage is not fully understood, but it is believed to contribute to the efficient filling of the left ventricle and the overall function of the left atrium. It acts as a reservoir, collecting and temporarily storing blood during the relaxation phase of the cardiac cycle (diastole) before it is pumped into the left ventricle during the contraction phase (systole). The left atrial appendage aids in maintaining proper blood flow and pressure within the left atrium.\n    - Has rough surface that can promote blood clot formation and is a relatively slow-moving area of blood flow\n    - Atrial Fibrillation (AF), a condition that causes an irregular heartbeat, are at increased risk for blood clots to form in the LAA"
+        },
+        {
+            "label": "Right Appendage",
+            "description": "- Small, finger-like pouch that projects from the right atrium of the heart\n    - It has a similar function to the left atrial appendage, serving as a reservoir for blood during the relaxation phase (diastole) of the cardiac cycle and aids in maintaining proper blood flow and pressure within the right atrium.\n    - A remnant of the embryonic right atrium\n    - Right atrial appendage is a potential site for blood clots to form because the right atrial appendage is a relatively slow-moving area of blood flow, and has a rough surface that can promote blood clot formation. Blood clots that form in the right atrial appendage can break off and travel to the brain, where they can cause a stroke"
+        },
+        {
+            "label": "Tricuspid valve",
+            "description": "- Separates the right atrium from the right ventricle, it’s primary role is to ensure that blood flows in one direction\n    - Consists of 3 leaflets (or cusps): Anterior, Posterior, and Septal cusps\n    - Open during ventricular relaxation (diastole) as pressure in the right atrium is higher than in the right ventricle, allowing blood to flow\n    - Closes during systole, the pressure inside the chamber increases, causing the tricuspid valve leaflets to come together and form a seal"
+        },
+        {
+            "label": "Mitral valve",
+            "description": "- Bicuspid valve, located between the left atrium and the left ventricle, primary role is to ensure that blood flows in one direction, from the left atrium into the left ventricle during ventricular relaxation (diastole), and prevents back flow of blood into the atrium during ventricular contraction (systole)\n    - Consists of 2 leaflets or cusps: Anterior and Posterior cusps\n    - Open during ventricular relaxation (diastole) as pressure in the left atrium is higher than in the left ventricle, allowing blood to flow\n    - Closes during systole, the pressure inside the chamber increases, causing the mitral valve leaflets to come together and form a seal"
+        },
+        {
+            "label": "Chordae tendineae",
+            "description": "- Tiny, tendon-like fibrous cords allow functioning of the heart valves, composed mainly of collagen, arise from the papillary muscles.\n    - They extend from the papillary muscles to the cusps or leaflets of the heart valves, arranged in branching pattern and are attached to the free edges of the valve leaflets.\n    - The attachment points of the chordae tendineae are called the chordal insertion sites.\n    - Anchors the valve leaflets in place and prevent them from inverting or bulging into the atria when the ventricles contract"
+        },
+        {
+            "label": "Papillary muscles",
+            "description": "- Small, cone-shaped muscular projections in each ventricle, that originate from the walls of the ventricles.\n    - When ventricles contract during systole, the papillary muscles also contract causing tension on the chordae tendineae, which prevents the valve leaflets from being forced back into the atria and ensures the proper closure of the valves.\n    - Contraction of the papillary muscles and the tension they exert on the chordae tendineae help to maintain the integrity of the valve seal and prevent the backflow of blood"
+        },
+        {
+            "label": "Fossa ovalis",
+            "description": "- Small depression or indentation in the inter atrial septum, positioned in the area where the septum meets the superior vena cava\n    - It is a remnant of a fetal structure that played a crucial role in the circulation of blood during fetal development.\n    - During fetal development, there is an opening in the interatrial septum known as the foramen ovale that allows blood to bypass from placenta to the lungs and flow from the right atrium directly into the left atrium"
+        },
+        {
+            "label": "Aortic valve",
+            "description": "- Regulate the flow of oxygenated blood from the left ventricle into the ascending aorta\n    - Consists of 3 leaflets or cusps: right, left, and posterior cusps, composed of thin, tough connective tissue covered by smooth endocardium\n    - Cusps are attached to the aortic wall by fibrous structures - aortic valve annulus"
+        },
+        {
+            "label": "Pulmonary valve",
+            "description": "- Ensure the one-way flow of deoxygenated blood from the right ventricle to the pulmonary artery and then to the lungs for oxygenation\n    - Consists of 3 semilunar cusps: right, left, and anterior cusps\n    - Cusps are made up of thin, fibrous tissue covered by smooth endocardium attached to the wall of the pulmonary artery by fibrous structures - pulmonary valve annulus.\n    - During diastole, pulmonary valve is closed. As the right ventricle contracts during systole, the pressure within the chamber rises, causing the pulmonary valve cusps to be forced open allowing the deoxygenated blood to be ejected from the right ventricle into the pulmonary artery"
+        },
+        {
+            "label": "Infundibulum",
+            "description": "- Scientific name; conus arteriosus, conical pouch formed from the upper and left angle of the right ventricle that serves as the pathway for blood flow from the right ventricle to the pulmonary artery\n    - Infundibulum gives rise to pulmonary trunk, providing support for the pulmonary valve\n    - Creates a pressure gradient that drives the blood forward, when the body needs more oxygen, the infundibulum dilates, which increases the amount of blood that can flow to the lungs. When the body needs less oxygen, the infundibulum constricts, which reduces the amount of blood that flows to the lungs.\n    - Defects in infundibulum development can result in a heart condition known as tetralogy of Fallot"
+        },
+        {
+            "label": "Trabeculae Carneae",
+            "description": "Muscular ridges or columns found inside the ventricles of the heart.\n Increases the surface area of the ventricles and help to prevent the walls of the heart chambers from sticking together during contraction.\n They are larger and more complex in Left ventricle compared to Right ventricle"
+        }
+
+    ]
+}

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Closed Heart
+* source:	https://sketchfab.com/3d-models/closed-heart-b995082afacf4498bc22048061b04390
+* author:	Ali.Zorays (https://sketchfab.com/Ali.Zorays)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Closed Heart" (https://sketchfab.com/3d-models/closed-heart-b995082afacf4498bc22048061b04390) by Ali.Zorays (https://sketchfab.com/Ali.Zorays) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
